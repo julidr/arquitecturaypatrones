@@ -10,3 +10,4 @@ Algunos ejemplos de patrones que se aprendieron durante la clase de Arquitectura
 4. [Patron Singleton](https://github.com/julidr/arquitecturaypatrones/tree/develop/src/patronSingleton)
 5. [Patron Constructor](https://github.com/julidr/arquitecturaypatrones/tree/develop/src/patronConstructor)
 6. [Patron Adaptador](https://github.com/julidr/arquitecturaypatrones/tree/develop/src/patronTravolta)
+7. [Patron Prototipo](https://github.com/julidr/arquitecturaypatrones/tree/develop/src/patronPrototipo)
