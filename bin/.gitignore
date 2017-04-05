@@ -1,8 +1,9 @@
 /patronConstructor/
 /patronDecorador/
 /patronEstrategia/
+/patronFabrica/
 /patronObservador/
 /patronPrototipo/
 /patronSingleton/
 /patronTravolta/
-/patronFabrica/
+/patronFabricaAbstracta/
