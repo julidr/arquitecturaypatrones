@@ -12,3 +12,4 @@ Algunos ejemplos de patrones que se aprendieron durante la clase de Arquitectura
 6. [Patron Adaptador](https://github.com/julidr/arquitecturaypatrones/tree/develop/src/patronTravolta)
 7. [Patron Prototipo](https://github.com/julidr/arquitecturaypatrones/tree/develop/src/patronPrototipo)
 8. [Patron Fabrica](https://github.com/julidr/arquitecturaypatrones/tree/develop/src/patronFabrica)
+9. [Patron Fabrica Abstracta](https://github.com/julidr/arquitecturaypatrones/tree/develop/src/patronFabricaAbstracta)
